@@ -3,10 +3,6 @@ body {
   margin: 0;
 }
 
-* {
-  font-family: "Love Ya Like A Sister", cursive;
-}
-
 .main-container {
   background: rgb(219, 219, 79);
   background: url(../img/BG.png);
