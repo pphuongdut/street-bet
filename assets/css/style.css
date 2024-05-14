@@ -1,8 +1,15 @@
 body {
-    padding: 0;
-    margin: 0;
+  padding: 0;
+  margin: 0;
+}
+
+* {
+  font-family: "Love Ya Like A Sister", cursive;
 }
 
 .main-container {
-    background: rgb(219, 219, 79);
+  background: rgb(219, 219, 79);
+  background: url(../img/BG.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
 }
